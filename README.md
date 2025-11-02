@@ -6,3 +6,4 @@
 ### 1.在下载完Gewu平台后，进行解压，将原有gewu/Assets/Manipulation文件夹替换为我这个github项目中的Manipulation文件夹  
 ### 2.使用Unity打开，进入Manipulation文件夹中的G1OP场景
 ![Uploading img_v3_02rl_68ddeaf9-7b72-49f4-8dbf-103b273ae76g.jpg…]()
+
