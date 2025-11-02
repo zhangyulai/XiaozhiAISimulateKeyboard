@@ -2,3 +2,4 @@
 
 ## 一、下载格物平台（Gewu）
 **Visit https://github.com/loongOpen/Unity-RL-Playground.git**
+<img width="903" height="177" alt="image" src="https://github.com/user-attachments/assets/3593398c-5cac-4985-af60-2ec3b22ee316" />
