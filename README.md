@@ -5,5 +5,4 @@
 <img width="903" height="177" alt="image" src="https://github.com/user-attachments/assets/3593398c-5cac-4985-af60-2ec3b22ee316" /> 
 ### 1.在下载完Gewu平台后，进行解压，将原有gewu/Assets/Manipulation文件夹替换为我这个github项目中的Manipulation文件夹  
 ### 2.使用Unity打开，进入Manipulation文件夹中的G1OP场景
-![Uploading img_v3_02rl_68ddeaf9-7b72-49f4-8dbf-103b273ae76g.jpg…]()
-
+<img width="844" height="476" alt="image" src="https://github.com/user-attachments/assets/e63dc9b9-5998-42b6-b2c0-ed76e2ec1d40" />
