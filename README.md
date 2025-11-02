@@ -6,3 +6,10 @@
 ### 1.在下载完Gewu平台后，进行解压，将原有gewu/Assets/Manipulation文件夹替换为我这个github项目中的Manipulation文件夹  
 ### 2.使用Unity打开，进入Manipulation文件夹中的G1OP场景
 <img width="844" height="476" alt="image" src="https://github.com/user-attachments/assets/e63dc9b9-5998-42b6-b2c0-ed76e2ec1d40" />
+
+## 二、准备小智AI硬件
+### [1.进入小智AI官网绑定智能体](https://xiaozhi.me/console/agents)
+<img width="978" height="445" alt="image" src="https://github.com/user-attachments/assets/f2b8920d-9a30-4dfd-bf2f-86df244d6f10" />
+
+https://github.com/user-attachments/assets/114ed504-83c7-4c2f-9b04-7ef9eec26602
+
