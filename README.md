@@ -47,12 +47,6 @@ https://github.com/user-attachments/assets/ad15f07e-2acf-40d5-a5c1-655b0d07bd5a
 ### 2.手部夹爪开闭合效果视频
 https://github.com/user-attachments/assets/94b5e526-de87-4456-9140-056d440a2f0c
 ### 3.双臂动作效果视频
-
+https://github.com/user-attachments/assets/518eb3ae-afe7-457f-bd87-c1f5f57a71c7  
 
 https://github.com/user-attachments/assets/98eeb361-67a7-45d8-a6c1-8243b8003a30
-
-
-
-https://github.com/user-attachments/assets/518eb3ae-afe7-457f-bd87-c1f5f57a71c7
-
-
