@@ -9,7 +9,7 @@
 
 ## 二、准备小智AI硬件/py-xiaozhi
 ### 1.进入小智AI官网绑定智能体
-小智AI官网：https://xiaozhi.me/console/agents
+小智AI官网：https://xiaozhi.me/console/agents  
 <img width="978" height="445" alt="image" src="https://github.com/user-attachments/assets/f2b8920d-9a30-4dfd-bf2f-86df244d6f10" />
 ### 2.角色配置
 <img width="804" height="1226" alt="image" src="https://github.com/user-attachments/assets/95df18d5-1c07-4bf8-aebb-72e03a467ebc" />
@@ -30,7 +30,7 @@ GitHub：https://github.com/huangjunsen0406/py-xiaozhi.git
 
 ## 四、使用VSCode打开xiaozhi项目
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/717558aa-c453-4e26-a399-2b53ab2b9285" />
-将xiaozhi\MCP\MCP_Windows\Windows+OPEN_API.py替换为本github项目中的xiaozhiSimulateKeyboardMCP.py文件
+将xiaozhi\MCP\MCP_Windows\Windows+OPEN_API.py替换为本github项目中的xiaozhiSimulateKeyboardMCP.py文件  
 
 ## 五、运行Unity并执行语音驱动机器人运动
 ### 1.在前面所有工作完成之后，一定要确保MCP接入点亮起
