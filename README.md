@@ -14,12 +14,12 @@
 ### 2.角色配置
 <img width="804" height="1226" alt="image" src="https://github.com/user-attachments/assets/95df18d5-1c07-4bf8-aebb-72e03a467ebc" />
 ### 3.硬件端
-**需自行购买：**
-"https://github.com/user-attachments/assets/114ed504-83c7-4c2f-9b04-7ef9eec26602"
+**需自行购买：**  
+"https://github.com/user-attachments/assets/114ed504-83c7-4c2f-9b04-7ef9eec26602"  
 ### 4.py-xiaozhi
-**本GitHub项目中的XiaozhiAISimulateKeyboard/py-xiaozhi为py-xiaozhi项目，可参考以下两个网站进行使用：**
-官方网站：https://huangjunsen0406.github.io/py-xiaozhi/
-GitHub：https://github.com/huangjunsen0406/py-xiaozhi.git
+**本GitHub项目中的XiaozhiAISimulateKeyboard/py-xiaozhi为py-xiaozhi项目，可参考以下两个网站进行使用：**  
+官方网站：https://huangjunsen0406.github.io/py-xiaozhi/  
+GitHub：https://github.com/huangjunsen0406/py-xiaozhi.git  
 
 ## 三、下载小智Ai_MCP_操控PC.exe文件
 参考网站：https://kcn80f4hacgs.feishu.cn/wiki/RTaHwEOp8iu6ACkXbrNcJ4GMnVg
