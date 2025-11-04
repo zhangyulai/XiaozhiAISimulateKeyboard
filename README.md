@@ -33,6 +33,7 @@ GitHub：https://github.com/huangjunsen0406/py-xiaozhi.git
 <img width="1079" height="972" alt="image" src="https://github.com/user-attachments/assets/cecc5491-0d36-4ad0-8783-451cf661228a" />
 
 ## 四、使用VSCode打开xiaozhi项目
+**解压此Github项目中的MCP_Windows.zip 可以查看代码**
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/717558aa-c453-4e26-a399-2b53ab2b9285" />
 将xiaozhi\MCP\MCP_Windows\Windows+OPEN_API.py替换为本github项目中的xiaozhiSimulateKeyboardMCP.py文件  
 
